@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BufunfaFinancasPessoais.API", "BufunfaFinancasPessoais\BufunfaFinancasPessoais.API.csproj", "{4C8297BA-DB5D-4F3E-B7BE-4686ACD6A22C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{23D625C3-DCDF-4419-BB2D-735CE086C186}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{772DC358-CEEB-47C5-9B0F-7FA85D2FA315}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{F72F7F64-FE9A-43E1-A3D9-BFE7014F189A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C8297BA-DB5D-4F3E-B7BE-4686ACD6A22C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C8297BA-DB5D-4F3E-B7BE-4686ACD6A22C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C8297BA-DB5D-4F3E-B7BE-4686ACD6A22C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C8297BA-DB5D-4F3E-B7BE-4686ACD6A22C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4C8297BA-DB5D-4F3E-B7BE-4686ACD6A22C} = {F72F7F64-FE9A-43E1-A3D9-BFE7014F189A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E0B424E-95F9-4556-8A49-C073FE001B13}
+	EndGlobalSection
+EndGlobal
